@@ -1,0 +1,572 @@
+{
+ "/stingray/api/region?al=1&clustering_threshold=350&ep=true&isBrokerage=true&lpp=20&mpt=1&num_homes=350&page_number=1&region_id=78704&region_type=2&start=0&tz=true&v=8": {
+  "version": 663,
+  "resultCode": 0,
+  "payload": {
+   "rootDefaults": {
+    "v": 8,
+    "mpt": 1,
+    "market": "austin",
+    "country_code": "US",
+    "num_homes": 350,
+    "start": 0,
+    "page_number": 1,
+    "sf": [
+     1,
+     2,
+     3,
+     5,
+     6,
+     7
+    ],
+    "region_id": 34098,
+    "region_type": 2,
+    "region_name": "78704",
+    "status": 9,
+    "has_laundry_facility": false,
+    "has_laundry_hookups": false,
+    "pool": false,
+    "has_pool": false,
+    "has_dishwasher": false,
+    "has_parking": false,
+    "utilities_included": false,
+    "has_deal": false,
+    "is_furnished": false,
+    "has_short_term_lease": false,
+    "has_att_fiber": false,
+    "travel_rush": false,
+    "travel_within_region": false,
+    "uipt": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ],
+    "no_outline": false,
+    "ord": "redfin-recommended-asc",
+    "isRentals": false,
+    "is_senior_living": false,
+    "is_income_restricted": false,
+    "is_student": false,
+    "is_military": false
+   },
+   "pageTypeDefaults": {
+    "v": 8,
+    "mpt": 1,
+    "market": "austin",
+    "country_code": "US",
+    "num_homes": 350,
+    "start": 0,
+    "page_number": 1,
+    "sf": [
+     1,
+     2,
+     3,
+     5,
+     6,
+     7
+    ],
+    "region_id": 34098,
+    "region_type": 2,
+    "region_name": "78704",
+    "status": 9,
+    "has_laundry_facility": false,
+    "has_laundry_hookups": false,
+    "pool": false,
+    "has_pool": false,
+    "has_dishwasher": false,
+    "has_parking": false,
+    "utilities_included": false,
+    "has_deal": false,
+    "is_furnished": false,
+    "has_short_term_lease": false,
+    "has_att_fiber": false,
+    "travel_rush": false,
+    "travel_within_region": false,
+    "uipt": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ],
+    "no_outline": false,
+    "ord": "redfin-recommended-asc",
+    "isRentals": false,
+    "is_senior_living": false,
+    "is_income_restricted": false,
+    "is_student": false,
+    "is_military": false
+   },
+   "srp": {
+    "v": 8,
+    "mpt": 1,
+    "market": "austin",
+    "country_code": "US",
+    "num_homes": 350,
+    "start": 0,
+    "page_number": 1,
+    "sf": [
+     1,
+     2,
+     3,
+     5,
+     6,
+     7
+    ],
+    "region_id": 34098,
+    "region_type": 2,
+    "region_name": "78704",
+    "status": 9,
+    "has_laundry_facility": false,
+    "has_laundry_hookups": false,
+    "pool": false,
+    "has_pool": false,
+    "has_dishwasher": false,
+    "has_parking": false,
+    "utilities_included": false,
+    "has_deal": false,
+    "is_furnished": false,
+    "has_short_term_lease": false,
+    "has_att_fiber": false,
+    "travel_rush": false,
+    "travel_within_region": false,
+    "uipt": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ],
+    "no_outline": false,
+    "ord": "redfin-recommended-asc",
+    "isRentals": false,
+    "is_senior_living": false,
+    "is_income_restricted": false,
+    "is_student": false,
+    "is_military": false,
+    "reg": false,
+    "prompt_save": false
+   },
+   "page": {
+    "pageTitle": "78704, TX Real Estate & Homes for Sale | Redfin",
+    "metaDescription": "Instantly search and view photos of all homes for sale in 78704, TX now. 78704, TX real estate listings updated every 15 to 30 minutes.",
+    "noIndex": false,
+    "host": "www.redfin.com",
+    "regionUrl": "/zipcode/78704",
+    "expectedUrl": "/zipcode/78704",
+    "canonicalUrl": "/zipcode/78704",
+    "relNext": "/zipcode/78704/page-2",
+    "marketInsightsPageUrl": "/zipcode/78704/housing-market",
+    "regionName": "78704",
+    "mapPageType": "Homes For Sale",
+    "stateCode": "TX",
+    "h1": "78704, TX Homes for Sale",
+    "shortH1": "78704, TX",
+    "shortH1Subtitle": "Homes for sale & real estate",
+    "mobileH1": "78704 Real Estate & Homes for Sale",
+    "tempSeoH2": "78704 Real Estate Listings & Homes for Sale",
+    "tempSeoDescription": "Research 78704 real estate market trends and find homes for sale. Search for new homes, open houses, recently sold homes and reduced price real estate in 78704.",
+    "agentsLinkUrl": "/zipcode/78704/real-estate/agents",
+    "androidUrl": "android-app://com.redfin.android/http/www.redfin.com/zipcode/78704"
+   },
+   "region": {
+    "poly": "e|mwDl`xsQoAnEcCaAuAdE}EiCcB|EsBjFYLUfC}@fC|DbC`LfGyB|E}A|DsD~BiEtCqIsEs@vBu@rBuBlFZPVP]~@oBjFnGhDwD`K_IiEeDjIeGzNmApBgHlGuF|Bs`@rOi@e@gNrF_BaGNiNx@kFhEyIzD}MzEiEm@aM{H}EeKN_DrB}GxOi@dGdArJEnDyDnB{YyC_By@cCyFaCqLeAoEqBcI_BaEmCaKcCyHuBuByFkAsBbEmEY{@iCkAiD_@eFkDwJc@gMaDaTHwScBqLAeJoBeIgAmByAyEcCeFsD}Im@eAs@iArCiJ`B_FvB_Fv@}Bh@{Bl@mD^RjAl@B{EfJe\\rAaDaD}@pDgQrA\\H@zAgDlIuFnEwBhTcCxFeFtCoEtHgJdBqE`BgElCB~JqAHmBtKy@`Jd@dBd@nHhDdCz@jChAo@lBnOdIxOzHbJnEvE|BlFnChVtLnDfBrBbAxQbJTYpLzFjKpEdPzHKh@YjClCxA{AtHuLb\\gIpTeC|BkDWqD|G|E`CmMl]uGmDwBhFqFuC}DhLUbAe@nEEdG\\hMp@PPDPBdFx@pMPlF?",
+    "isBoundingBox": false,
+    "id": 34098,
+    "type": 2,
+    "name": "78704",
+    "countryCode": "US",
+    "stateCode": "TX",
+    "isUsingPILOnMap": false
+   },
+   "regions": [
+    {
+     "poly": "e|mwDl`xsQoAnEcCaAuAdE}EiCcB|EsBjFYLUfC}@fC|DbC`LfGyB|E}A|DsD~BiEtCqIsEs@vBu@rBuBlFZPVP]~@oBjFnGhDwD`K_IiEeDjIeGzNmApBgHlGuF|Bs`@rOi@e@gNrF_BaGNiNx@kFhEyIzD}MzEiEm@aM{H}EeKN_DrB}GxOi@dGdArJEnDyDnB{YyC_By@cCyFaCqLeAoEqBcI_BaEmCaKcCyHuBuByFkAsBbEmEY{@iCkAiD_@eFkDwJc@gMaDaTHwScBqLAeJoBeIgAmByAyEcCeFsD}Im@eAs@iArCiJ`B_FvB_Fv@}Bh@{Bl@mD^RjAl@B{EfJe\\rAaDaD}@pDgQrA\\H@zAgDlIuFnEwBhTcCxFeFtCoEtHgJdBqE`BgElCB~JqAHmBtKy@`Jd@dBd@nHhDdCz@jChAo@lBnOdIxOzHbJnEvE|BlFnChVtLnDfBrBbAxQbJTYpLzFjKpEdPzHKh@YjClCxA{AtHuLb\\gIpTeC|BkDWqD|G|E`CmMl]uGmDwBhFqFuC}DhLUbAe@nEEdG\\hMp@PPDPBdFx@pMPlF?",
+     "isBoundingBox": false,
+     "id": 34098,
+     "type": 2,
+     "name": "78704",
+     "countryCode": "US",
+     "stateCode": "TX",
+     "isUsingPILOnMap": false
+    }
+   ]
+  }
+ },
+ "/stingray/api/gis?al=1&include_nearby_homes=true&market=austin&mpt=1&num_homes=350&ord=redfin-recommended-asc&page_number=1&region_id=34098&region_type=2&sf=1,2,3,5,6,7&start=0&status=9&uipt=1,2,3,4,5,6,7,8&v=8": {
+  "version": 663,
+  "errorMessage": "Success",
+  "resultCode": 0,
+  "payload": {
+   "homes": [
+    {
+     "mlsId": {
+      "label": "MLS#",
+      "value": "6233654"
+     },
+     "showMlsId": false,
+     "mlsStatus": "Active",
+     "showDatasourceLogo": false,
+     "price": {
+      "value": 1075000,
+      "level": 1
+     },
+     "hideSalePrice": false,
+     "hoa": {
+      "level": 1
+     },
+     "isHoaFrequencyKnown": true,
+     "sqFt": {
+      "value": 1538,
+      "level": 1
+     },
+     "pricePerSqFt": {
+      "value": 699,
+      "level": 1
+     },
+     "lotSize": {
+      "value": 6926,
+      "level": 1
+     },
+     "beds": 3,
+     "baths": 2.0,
+     "fullBaths": 2,
+     "location": {
+      "value": "Rabb Inwood Hills",
+      "level": 1
+     },
+     "stories": 2.0,
+     "latLong": {
+      "value": {
+       "latitude": 30.2487467,
+       "longitude": -97.7789734
+      },
+      "level": 1
+     },
+     "streetLine": {
+      "value": "2107 Arpdale St",
+      "level": 1
+     },
+     "unitNumber": {
+      "level": 1
+     },
+     "city": "Austin",
+     "state": "TX",
+     "zip": "78704",
+     "postalCode": {
+      "value": "78704",
+      "level": 1
+     },
+     "countryCode": "US",
+     "showAddressOnMap": true,
+     "soldDate": 1627887600000,
+     "searchStatus": 1,
+     "propertyType": 6,
+     "uiPropertyType": 1,
+     "listingType": 1,
+     "propertyId": 31681224,
+     "listingId": 224405503,
+     "dataSourceId": 92,
+     "isEarlyAccess": false,
+     "marketId": 12,
+     "yearBuilt": {
+      "value": 1951,
+      "level": 1
+     },
+     "dom": {
+      "value": 1,
+      "level": 1
+     },
+     "timeOnRedfin": {
+      "value": 15350666,
+      "level": 1
+     },
+     "originalTimeOnRedfin": {
+      "value": 15350672,
+      "level": 1
+     },
+     "timeZone": "US/Central",
+     "primaryPhotoDisplayLevel": 1,
+     "photos": {
+      "value": "0-19:0",
+      "level": 1
+     },
+     "numPictures": 20,
+     "additionalPhotosInfo": [],
+     "photoFormat": "webp",
+     "url": "/TX/Austin/2107-Arpdale-St-78704/home/31681224",
+     "hasInsight": false,
+     "sashes": [
+      {
+       "sashType": 7,
+       "sashTypeId": 7,
+       "sashTypeName": "New",
+       "sashTypeColor": "#2E7E36",
+       "isRedfin": false,
+       "isActiveKeyListing": false,
+       "timeOnRedfin": 15350666,
+       "openHouseText": "",
+       "lastSaleDate": "",
+       "lastSalePrice": ""
+      }
+     ],
+     "keyFacts": [
+      {
+       "description": "French doors",
+       "rank": 0
+      },
+      {
+       "description": "Tree-lined street",
+       "rank": 1
+      },
+      {
+       "description": "Renovated kitchen",
+       "rank": 2
+      }
+     ],
+     "listingTags": [
+      "ZILKER COTTAGE",
+      "TREE-LINED STREET",
+      "HISTORIC CHARACTER",
+      "OUTDOOR RETREAT",
+      "FRENCH DOORS",
+      "RENOVATED KITCHEN"
+     ],
+     "isHot": false,
+     "hasVirtualTour": false,
+     "hasVideoTour": false,
+     "has3DTour": false,
+     "hasInteractiveFloorplan": false,
+     "newConstructionCommunityInfo": {},
+     "isRedfin": false,
+     "isNewConstruction": false,
+     "listingRemarks": "Discover the timeless charm of this classic Zilker cottage nestled on a peaceful, tree-lined street in one of Austin’s most desirable neighborhoods. Blending historic character with thoughtful updates, this inviting home offers tranquil indoor spaces and a beautiful outdoor retreat. French doors reclaimed from UT’s Prather Hall create a distinctive connection between the living and dining areas, adding a touch of history and architectural charm. The renovated kitchen features elegant soapstone countertops, stainless steel appliances, a spacious open pantry, and a separate dining area. Frameless screen doors open directly to the backyard, creating a seamless indoor-outdoor living",
+     "remarksAccessLevel": 1,
+     "businessMarketId": 13,
+     "isShortlisted": false,
+     "isViewedListing": false,
+     "skGarageSpaces": 0,
+     "skParkingSpaces": 2,
+     "skPoolType": 5
+    },
+    {
+     "mlsId": {
+      "label": "MLS#",
+      "value": "2214688456139632921"
+     },
+     "showMlsId": false,
+     "mlsStatus": "Coming Soon",
+     "showDatasourceLogo": false,
+     "price": {
+      "value": 699000,
+      "level": 1
+     },
+     "hideSalePrice": false,
+     "hoa": {
+      "level": 1
+     },
+     "isHoaFrequencyKnown": true,
+     "sqFt": {
+      "value": 594,
+      "level": 1
+     },
+     "pricePerSqFt": {
+      "value": 1177,
+      "level": 1
+     },
+     "lotSize": {
+      "level": 1
+     },
+     "beds": 1,
+     "baths": 2.0,
+     "location": {
+      "value": "Travis Heights",
+      "level": 1
+     },
+     "latLong": {
+      "value": {
+       "latitude": 30.2482264,
+       "longitude": -97.7399268
+      },
+      "level": 1
+     },
+     "streetLine": {
+      "value": "904 Avondale Rd",
+      "level": 1
+     },
+     "unitNumber": {
+      "level": 1
+     },
+     "city": "Austin",
+     "state": "TX",
+     "zip": "78704",
+     "postalCode": {
+      "value": "78704",
+      "level": 1
+     },
+     "countryCode": "US",
+     "showAddressOnMap": true,
+     "soldDate": 1608278400000,
+     "searchStatus": 8,
+     "propertyType": 3,
+     "uiPropertyType": 2,
+     "listingType": 1,
+     "propertyId": 31616871,
+     "listingId": 224323057,
+     "dataSourceId": 641,
+     "isEarlyAccess": true,
+     "earlyAccessType": "COMPASS_EARLY_ACCESS",
+     "marketId": 12,
+     "yearBuilt": {
+      "value": 1949,
+      "level": 1
+     },
+     "dom": {
+      "level": 5
+     },
+     "timeOnRedfin": {
+      "level": 5
+     },
+     "timeZone": "US/Central",
+     "primaryPhotoDisplayLevel": 1,
+     "photos": {
+      "value": "0-15:0",
+      "level": 1
+     },
+     "numPictures": 16,
+     "additionalPhotosInfo": [],
+     "photoFormat": "webp",
+     "url": "/TX/Austin/904-Avondale-Rd-78704/home/31616871",
+     "hasInsight": false,
+     "sashes": [
+      {
+       "sashType": 46,
+       "sashTypeId": 46,
+       "sashTypeName": "EARLY ACCESS",
+       "sashTypeColor": "#131313",
+       "isRedfin": false,
+       "isActiveKeyListing": false,
+       "openHouseText": "",
+       "lastSaleDate": "",
+       "lastSalePrice": ""
+      },
+      {
+       "sashType": 47,
+       "sashTypeId": 47,
+       "sashTypeName": "COMPASS COMING SOON",
+       "sashTypeColor": "#FEFEFE",
+       "isRedfin": false,
+       "isActiveKeyListing": false,
+       "openHouseText": "",
+       "lastSaleDate": "",
+       "lastSalePrice": ""
+      }
+     ],
+     "keyFacts": [
+      {
+       "description": "All-new systems",
+       "rank": 0
+      },
+      {
+       "description": "Antique lighting",
+       "rank": 1
+      },
+      {
+       "description": "Hand-carved beams",
+       "rank": 2
+      }
+     ],
+     "listingTags": [
+      "CUSTOM-MADE FRONT DOOR",
+      "MASTER-CRAFTSMAN CROWN MOLDING",
+      "HAND-CARVED BEAMS",
+      "ANTIQUE LIGHTING",
+      "ALL-NEW SYSTEMS",
+      "TANKLESS HOT WATER HEATER"
+     ],
+     "isHot": false,
+     "hasVirtualTour": false,
+     "hasVideoTour": false,
+     "has3DTour": false,
+     "hasInteractiveFloorplan": false,
+     "newConstructionCommunityInfo": {},
+     "isRedfin": false,
+     "isNewConstruction": false,
+     "listingRemarks": "Under the shade of a magnificent heritage oak, this jewel-box residence blends timeless craftsmanship with every modern comfort. The perfect pied-a-terre, this Travis Heights retreat offers an elegant alternative to downtown condos, without the high-rise setting or hefty HOA fees. It’s a charming, low-maintenance landing pad that delivers a true lock-and-leave lifestyle without compromising on character or location. Whether for game days at UT, weekends on South Congress, or simply as a private Austin escape, this home feels as practical as it is enchanting. A custom-made front door with vintage hardware opens to interiors where master-craftsman crown molding, hand-carved beams, and a",
+     "remarksAccessLevel": 1,
+     "businessMarketId": 13,
+     "isShortlisted": false,
+     "isViewedListing": false,
+     "skPoolType": 5
+    }
+   ],
+   "dataSources": [],
+   "buildings": {},
+   "searchMedian": {
+    "price": 749450,
+    "sqFt": 1534,
+    "pricePerSqFt": 489,
+    "dom": 70,
+    "beds": 3,
+    "baths": 2.5
+   },
+   "serviceRegionName": "south-central-austin",
+   "csvDownloadLinkDisplayLevel": 3,
+   "hasBrokerInformation": true
+  }
+ },
+ "/stingray/api/gis-aggregates?al=1&include_nearby_homes=true&market=austin&mpt=1&num_homes=350&ord=redfin-recommended-asc&page_number=1&region_id=34098&region_type=2&sf=1,2,3,5,6,7&start=0&status=9&uipt=1,2,3,4,5,6,7,8&v=8": {
+  "version": 663,
+  "errorMessage": "Success",
+  "resultCode": 0
+ },
+ "/stingray/api/region/2/34098/1/region-breadcrumbs?amenities=undefined&isRentals=false": {
+  "version": 663,
+  "errorMessage": "Success",
+  "resultCode": 0,
+  "payload": {
+   "breadcrumbs": [
+    {
+     "breadcrumbType": "Organization",
+     "url": "https://www.redfin.com",
+     "name": "Redfin",
+     "description": "The home page",
+     "linkType": "HOME"
+    },
+    {
+     "breadcrumbType": "State",
+     "url": "https://www.redfin.com/state/Texas",
+     "name": "Texas",
+     "shortName": "TX",
+     "description": "A State with homes for sale",
+     "linkType": "MAP_STATE"
+    },
+    {
+     "breadcrumbType": "AdministrativeArea",
+     "url": "https://www.redfin.com/county/2866/TX/Travis-County",
+     "name": "Travis County",
+     "description": "A County with homes for sale",
+     "linkType": "MAP_COUNTY"
+    },
+    {
+     "breadcrumbType": "AdministrativeArea",
+     "url": "https://www.redfin.com/zipcode/78704",
+     "name": "78704",
+     "description": "A Zip Code with homes for sale",
+     "linkType": "MAP_ZIP_CODE"
+    }
+   ]
+  }
+ }
+}

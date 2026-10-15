@@ -1,0 +1,435 @@
+{
+ "/stingray/api/home/details/initialInfo": {
+  "version": 663,
+  "errorMessage": "Success",
+  "resultCode": 0,
+  "payload": {
+   "responseCode": 200,
+   "listingId": 224373261,
+   "propertyId": 40483118,
+   "riftPageType": "ldp",
+   "hasAvm": true
+  }
+ },
+ "/stingray/api/home/details/aboveTheFold": {
+  "version": 663,
+  "errorMessage": "Success",
+  "resultCode": 0,
+  "payload": {
+   "addressSectionInfo": {
+    "status": {
+     "displayValue": "Active",
+     "definition": "This listing is for sale and the sellers are accepting offers.",
+     "longerDefinitionToken": "active"
+    },
+    "priceInfo": {
+     "amount": 149000,
+     "label": "Price",
+     "displayLevel": 1,
+     "dataSourceId": 269
+    },
+    "latestPriceInfo": {
+     "amount": 149000,
+     "label": "Price",
+     "displayLevel": 1,
+     "dataSourceId": 269
+    },
+    "sqFt": {
+     "displayLevel": 1,
+     "value": 680
+    },
+    "pricePerSqFt": 219,
+    "streetAddress": {
+     "streetNumber": "241-20",
+     "directionalPrefix": "",
+     "streetName": "Northern",
+     "streetType": "Blvd",
+     "directionalSuffix": "",
+     "unitType": "Unit",
+     "unitValue": "4A",
+     "addressDisplayLevel": {
+      "displayLevel": 1,
+      "displayText": "",
+      "dataSourceId": 269
+     },
+     "assembledAddress": "241-20 Northern Blvd Unit 4A",
+     "includeStreetNumber": true,
+     "includeUnitNumber": true,
+     "includeStreetName": true
+    },
+    "latLong": {
+     "latitude": 40.7649929,
+     "longitude": -73.744463
+    },
+    "beds": 1,
+    "baths": 1.0,
+    "yearBuilt": 1964,
+    "city": "Douglaston",
+    "state": "NY",
+    "zip": "11362",
+    "countryCode": "US",
+    "soldDateTimeZone": "US/Eastern",
+    "fips": "36081",
+    "timeOnRedfin": 93871037,
+    "cumulativeDaysOnMarket": 194,
+    "daysOnMarketLabel": "Cumulative",
+    "hasOpen": true,
+    "hasAgc": false,
+    "isRedfin": false,
+    "isHot": false,
+    "avmInfo": {
+     "displayLevel": 5,
+     "propertyId": 40483118
+    },
+    "searchStatus": 1,
+    "propertyType": 3,
+    "listingType": 1,
+    "isMappable": true,
+    "userCanShare": true,
+    "numFullBaths": 1,
+    "url": "/NY/Flushing/241-20-Northern-Blvd-11362/unit-4A/home/40483118",
+    "primaryPhotoUrl": "https://ssl.cdn-redfin.com/photo/269/bigphoto/371/1059371_0.jpg",
+    "rawHalfBaths": 0,
+    "rawFullBaths": 1
+   },
+   "mediaBrowserInfo": {
+    "photos": [
+     {
+      "photoUrls": {
+       "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/269/mbphotov3/371/genMid.1059371_0.jpg",
+       "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/269/mbpaddedwide/371/genMid.1059371_0.jpg",
+       "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/269/bigphoto/371/1059371_0.jpg",
+       "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/269/bcsphoto/371/genBcs.1059371_0.jpg"
+      },
+      "thumbnailData": {
+       "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/269/tmbphoto/371/genTmb.1059371_0.jpg"
+      },
+      "displayLevel": 1,
+      "dataSourceId": 269,
+      "photoType": "SPRITED",
+      "subdirectory": "371",
+      "fileName": "1059371_0.jpg",
+      "height": 1024,
+      "width": 1536,
+      "photoId": 3426789866
+     }
+    ],
+    "scans": [],
+    "sashes": [
+     {
+      "sashType": 10,
+      "sashTypeId": 10,
+      "sashTypeName": "Open House",
+      "sashTypeColor": "#73BB3C",
+      "isRedfin": false,
+      "isActiveKeyListing": false,
+      "openHouseText": "OPEN SAT, 2PM TO 3PM",
+      "lastSaleDate": "",
+      "lastSalePrice": ""
+     }
+    ],
+    "videos": [],
+    "isHot": false,
+    "altTextForImage": "241-20 Northern Blvd Unit 4A, Douglaston, NY 11362",
+    "dataSourceId": 269,
+    "assembledAddress": "241-20 Northern Blvd Unit 4A",
+    "previousListingPhotosCount": 0,
+    "displayType": 1
+   }
+  }
+ },
+ "/stingray/api/v1/home/details/belowTheFold": {
+  "version": 663,
+  "errorMessage": "Success",
+  "resultCode": 0,
+  "payload": {
+   "publicRecordsInfo": {
+    "basicInfo": {
+     "propertyTypeName": "Condo/Co-op",
+     "propertyLastUpdatedDate": 1487420950688,
+     "displayTimeZone": "US/Eastern"
+    },
+    "taxInfo": {},
+    "allTaxInfo": [],
+    "addressInfo": {
+     "isFMLS": false,
+     "street": "241-20 Northern Blvd Unit 4A",
+     "city": "Douglaston",
+     "state": "NY",
+     "zip": "11362",
+     "countryCode": "US"
+    },
+    "mortgageCalculatorInfo": {
+     "displayLevel": 1,
+     "dataSourceId": 269,
+     "listingPrice": 149000,
+     "downPaymentPercentage": 20.0,
+     "propertyTaxRate": 0.0,
+     "homeInsuranceRate": 0.44999999999999996,
+     "mortgageInsuranceRate": 0.75,
+     "creditScore": 740,
+     "loanType": 1,
+     "mortgageRateInfo": {
+      "fifteenYearFixed": 6.75,
+      "twentyYearFixed": 7.375,
+      "thirtyYearFixed": 7.5,
+      "vaThirtyYearFixed": 6.99,
+      "fhaThirtyYearFixed": 6.875,
+      "thirtyYearFixedJumbo": 7.25,
+      "isFromBankrate": true
+     },
+     "countyId": 1985,
+     "stateId": 16,
+     "countyName": "Queens County",
+     "stateName": "New York",
+     "mortgageRatesPageLinkText": "View all rates",
+     "baseMortgageRatesPageURL": "/mortgage-rates?location=11362&locationType=4&locationId=3702",
+     "zipCode": "11362",
+     "isCoop": true,
+     "coopEstimatedPropertyTaxRate": 1.11,
+     "mortgageConformingLoanInfo": {
+      "oneUnitLimit": 1209750,
+      "twoUnitLimit": 1548975,
+      "threeUnitLimit": 1872225,
+      "fourUnitLimit": 2326875
+     },
+     "homeInsuranceData": {
+      "homeInsuranceYearlyEstimate": 431,
+      "countyName": "Queens County",
+      "hasPrivatePool": false,
+      "yearBuilt": 1964
+     }
+    },
+    "latestListingInfo": {
+     "beds": 1,
+     "baths": 1.0,
+     "totalSqFt": 680,
+     "numStories": 1.0,
+     "propertyTypeName": "Condo/Co-op",
+     "yearBuilt": 1964
+    },
+    "countyUrl": "/county/1985/NY/Queens-County",
+    "countyName": "Queens County",
+    "countyIsActive": true,
+    "sectionPreviewText": "Compare listing to public record, refreshed 02/18/2017"
+   },
+   "amenitiesInfo": {
+    "mlsDisclaimerInfo": {
+     "showDisclaimerWithMlsInfo": true,
+     "showDisclaimerInFooter": false,
+     "listingBrokerName": "Douglas Elliman Real Estate",
+     "lastUpdatedString": "Oct 15, 2026 7:36 AM",
+     "listingBrokerNumber": "555-010-0100",
+     "listingAgentName": "Agent C",
+     "listingAgentNumber": "555-010-0100"
+    }
+   }
+  }
+ },
+ "/stingray/api/home/details/mainHouseInfoPanelInfo": {
+  "version": 663,
+  "errorMessage": "Success",
+  "resultCode": 0,
+  "payload": {
+   "mainHouseInfo": {
+    "listingId": 224373261,
+    "openHouses": [
+     {
+      "startTime": 1792260000000,
+      "endTime": 1792263600000,
+      "comment": "",
+      "id": 283721261,
+      "dateIncludesTime": true
+     }
+    ],
+    "openHousesDisplayLevel": 1,
+    "videoOpenHouses": [],
+    "hotnessInfo": {
+     "isHot": false,
+     "hotnessMessageInfoWithTourLink": {
+      "hotnessMessageAction": "go tour it now"
+     }
+    },
+    "source": {
+     "dataSourceId": 269,
+     "dataSourceDescription": "New York MLS (OneKey)",
+     "dataSourceName": "OneKey® MLS as Distributed by MLS Grid",
+     "shouldShowLargerLogo": false
+    },
+    "listingAgents": [
+     {
+      "agentInfo": {
+       "agentName": "Agent C",
+       "isAgentNameBlank": false,
+       "isRedfinAgent": false,
+       "isPartnerAgent": false,
+       "isExternalAgent": false
+      },
+      "brokerName": "Douglas Elliman Real Estate",
+      "isOpendoor": false
+     }
+    ],
+    "buyingAgents": [],
+    "lastCheckedDate": 1792074979990,
+    "lastUpdatedDate": 1792054897642,
+    "remarksDisplayLevel": 1,
+    "marketingRemarks": [
+     {
+      "marketingRemark": "Welcome to this spacious expanded studio in the desirable Manor House in Douglaston! This well-designed apartment features a kitchen area, living room, and a defined bedroom area, creating the feel of a one-bedroom-style layout. Excellent storage throughout includes two closets in the living room and two additional closets in the full bathroom, which also features a bathtub.  The Manor House offers the convenience of a live-in superintendent and porter. Ideally located approximately two blocks from the Douglaston LIRR station on the Port Washington Branch, offering convenient access to Manhattan in approximately 30 minutes. The QM3 express bus provides another convenient commuting option. Enjoy easy access to major highways, shopping, and restaurants. A wonderful opportunity to enjoy a spacious layout and convenient location in Douglaston. ",
+      "displayLevel": 1
+     }
+    ],
+    "selectedAmenities": [
+     {
+      "header": "Community",
+      "content": "Manor House",
+      "displayLevel": 1
+     },
+     {
+      "header": "County",
+      "content": "Queens",
+      "url": "/county/1985/NY/Queens-County"
+     },
+     {
+      "header": "MLS#",
+      "content": "1059371"
+     },
+     {
+      "header": "Built",
+      "content": "1964"
+     },
+     {
+      "header": "Property Type",
+      "content": "Condo (co-op)"
+     },
+     {
+      "header": "Laundry",
+      "content": "Shared laundry"
+     }
+    ],
+    "url": "/NY/Flushing/241-20-Northern-Blvd-11362/unit-4A/home/40483118",
+    "timezone": "US/Eastern",
+    "streetAddress": "241-20 Northern Blvd Unit 4A",
+    "fullStreetAddress": "241-20 Northern Blvd Unit 4A, Douglaston, NY 11362",
+    "mlsId": "1059371",
+    "mlsIdDisplayLevel": 1,
+    "mapNearbyHomesUrl": "/city/30749/NY/New-York/filter/viewport=40.76949901114502:40.76048678885498:-73.73845485180664:-73.75047114819336,no-outline",
+    "searchStatus": 1,
+    "mlsStatusDisplay": {
+     "displayValue": "Active",
+     "definition": "This listing is for sale and the sellers are accepting offers.",
+     "longerDefinitionToken": "active"
+    },
+    "showPriceHomeLink": false,
+    "showClaimHomeLink": true,
+    "alwaysShowAgentAttribution": true,
+    "showOffMarketWarning": false,
+    "propertyAddress": {
+     "streetNumber": "241-20",
+     "directionalPrefix": "",
+     "streetName": "Northern",
+     "streetType": "Blvd",
+     "directionalSuffix": "",
+     "unitType": "Apt",
+     "unitValue": "4A",
+     "city": "Flushing",
+     "stateOrProvinceCode": "NY",
+     "postalCode": "11362",
+     "countryCode": "US"
+    },
+    "propertyIsActivish": true,
+    "isComingSoonListing": false,
+    "hasOfferDeadlineInEffect": false,
+    "isOpendoorEligible": false,
+    "isBDXEligible": false,
+    "isAiChatEligible": true,
+    "isDirectNewConstruction": false,
+    "isRedesignEligible": false,
+    "isNewConstruction": false,
+    "listingContactInfo": "555-010-0100",
+    "isFMLS": false,
+    "propertyIsPremier": false,
+    "doNotElevatePremierAgentCard": false,
+    "customerAgentIsPremier": false,
+    "customerAgentStatus": 1,
+    "isLikelyUnderContractOrRecentlySold": false,
+    "isKeyListingEligible": false,
+    "showKeyListing": false,
+    "isRedfinDirectSaleEligible": false,
+    "isRedfinDirectSaleListing": false
+   },
+   "openHouseInfo": {
+    "openHouseList": [],
+    "openHouseConfirmationIdMap": {},
+    "openHouseCalendarInformationMap": {}
+   }
+  }
+ },
+ "/stingray/api/home/details/avm": {
+  "version": 663,
+  "errorMessage": "Success",
+  "resultCode": 0,
+  "payload": {
+   "sectionPreviewText": "Estimate Not Available",
+   "isHidden": true
+  }
+ },
+ "/stingray/api/home/details/rental-estimate": {
+  "version": 663,
+  "errorMessage": "Success",
+  "resultCode": 0,
+  "payload": {
+   "rentalEstimateInfo": {
+    "displayLevel": 1,
+    "propertyId": 40483118,
+    "shouldShow": true
+   },
+   "displayType": 2,
+   "numBeds": 1,
+   "propertyTypeId": 3,
+   "streetAddress": {
+    "streetNumber": "241-20",
+    "directionalPrefix": "",
+    "streetName": "Northern",
+    "streetType": "Blvd",
+    "directionalSuffix": "",
+    "unitType": "Unit",
+    "unitValue": "4A",
+    "addressDisplayLevel": {
+     "displayLevel": 1,
+     "displayText": "",
+     "dataSourceId": 269
+    },
+    "assembledAddress": "241-20 Northern Blvd Unit 4A",
+    "includeStreetNumber": true,
+    "includeUnitNumber": true,
+    "includeStreetName": true
+   },
+   "previewText": "Estimate Not Available"
+  }
+ },
+ "/stingray/api/home/details/aroundThisHomeSectionInfo": {
+  "version": 663,
+  "errorMessage": "Success",
+  "resultCode": 0,
+  "payload": {
+   "walkScoreData": {
+    "walkScore": {
+     "value": 88.0,
+     "link": "https://www.walkscore.com/score/241-20+Northern+Blvd+Flushing+NY+11362/lat=40.7649929/lng=-73.744463?utm_source=redfin",
+     "shortDescription": "Very Walkable",
+     "description": "Most errands can be accomplished on foot",
+     "color": "#008000"
+    },
+    "bikeScore": {
+     "value": 49.0,
+     "link": "https://www.walkscore.com/score/241-20+Northern+Blvd+Flushing+NY+11362/lat=40.7649929/lng=-73.744463?utm_source=redfin"
+    },
+    "transitScore": {
+     "value": 55.0,
+     "link": "https://www.walkscore.com/score/241-20+Northern+Blvd+Flushing+NY+11362/lat=40.7649929/lng=-73.744463?utm_source=redfin"
+    }
+   }
+  }
+ }
+}

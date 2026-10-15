@@ -1,0 +1,711 @@
+{
+ "/stingray/api/region?al=1&clustering_threshold=350&ep=true&f=include%3Dsold-3mo&isBrokerage=true&lpp=20&mpt=99&num_homes=350&page_number=1&region_id=30818&region_type=6&start=0&tz=true&v=8": {
+  "version": 663,
+  "resultCode": 0,
+  "payload": {
+   "rootDefaults": {
+    "v": 8,
+    "mpt": 1,
+    "market": "austin",
+    "country_code": "US",
+    "num_homes": 350,
+    "start": 0,
+    "page_number": 1,
+    "sf": [
+     1,
+     2,
+     3,
+     5,
+     6,
+     7
+    ],
+    "region_id": 30818,
+    "region_type": 6,
+    "region_name": "Austin",
+    "status": 9,
+    "has_laundry_facility": false,
+    "has_laundry_hookups": false,
+    "pool": false,
+    "has_pool": false,
+    "has_dishwasher": false,
+    "has_parking": false,
+    "utilities_included": false,
+    "has_deal": false,
+    "is_furnished": false,
+    "has_short_term_lease": false,
+    "has_att_fiber": false,
+    "travel_rush": false,
+    "travel_within_region": false,
+    "uipt": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ],
+    "no_outline": false,
+    "ord": "redfin-recommended-asc",
+    "isRentals": false,
+    "is_senior_living": false,
+    "is_income_restricted": false,
+    "is_student": false,
+    "is_military": false
+   },
+   "pageTypeDefaults": {
+    "v": 8,
+    "mpt": 1,
+    "market": "austin",
+    "country_code": "US",
+    "num_homes": 350,
+    "start": 0,
+    "page_number": 1,
+    "sf": [
+     1,
+     2,
+     3,
+     5,
+     6,
+     7
+    ],
+    "region_id": 30818,
+    "region_type": 6,
+    "region_name": "Austin",
+    "status": 9,
+    "has_laundry_facility": false,
+    "has_laundry_hookups": false,
+    "pool": false,
+    "has_pool": false,
+    "has_dishwasher": false,
+    "has_parking": false,
+    "utilities_included": false,
+    "has_deal": false,
+    "is_furnished": false,
+    "has_short_term_lease": false,
+    "has_att_fiber": false,
+    "travel_rush": false,
+    "travel_within_region": false,
+    "uipt": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ],
+    "no_outline": false,
+    "ord": "redfin-recommended-asc",
+    "isRentals": false,
+    "is_senior_living": false,
+    "is_income_restricted": false,
+    "is_student": false,
+    "is_military": false
+   },
+   "srp": {
+    "v": 8,
+    "mpt": 99,
+    "market": "austin",
+    "country_code": "US",
+    "num_homes": 350,
+    "start": 0,
+    "page_number": 1,
+    "region_id": 30818,
+    "region_type": 6,
+    "region_name": "Austin",
+    "sold_within_days": 90,
+    "status": 9,
+    "has_laundry_facility": false,
+    "has_laundry_hookups": false,
+    "pool": false,
+    "has_pool": false,
+    "has_dishwasher": false,
+    "has_parking": false,
+    "utilities_included": false,
+    "has_deal": false,
+    "is_furnished": false,
+    "has_short_term_lease": false,
+    "has_att_fiber": false,
+    "travel_rush": false,
+    "travel_within_region": false,
+    "uipt": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ],
+    "no_outline": false,
+    "ord": "redfin-recommended-asc",
+    "isRentals": false,
+    "is_senior_living": false,
+    "is_income_restricted": false,
+    "is_student": false,
+    "is_military": false,
+    "reg": false,
+    "prompt_save": false
+   },
+   "page": {
+    "pageTitle": "Austin, TX Homes for Sale & Real Estate | Redfin",
+    "metaDescription": "Find Real Estate for sale in Austin, TX. Tour Real Estate & make offers with the help of local Redfin real estate agents.",
+    "noIndex": true,
+    "host": "www.redfin.com",
+    "regionUrl": "/city/30818/TX/Austin",
+    "expectedUrl": "/city/30818/TX/Austin/filter/include=sold-3mo",
+    "canonicalUrl": "/city/30818/TX/Austin",
+    "marketInsightsPageUrl": "/city/30818/TX/Austin/housing-market",
+    "cityGuidePageUrl": "/living-in/TX/Austin/6/30818",
+    "rentalMarketPageUrl": "/city/30818/TX/Austin/rental-market",
+    "regionName": "Austin",
+    "mapPageType": "Real Estate",
+    "stateCode": "TX",
+    "h1": "Austin, TX Homes for Sale",
+    "shortH1": "Austin, TX",
+    "shortH1Subtitle": "Homes for sale & real estate",
+    "mobileH1": "Austin Real Estate & Homes for Sale",
+    "tempSeoH2": "Austin Real Estate Listings & Homes for Sale",
+    "tempSeoDescription": "Research Austin real estate market trends and find homes for sale. Search for new homes, open houses, recently sold homes and reduced price real estate in Austin.",
+    "agentsLinkUrl": "/city/30818/TX/Austin/real-estate/agents"
+   },
+   "region": {
+    "poly": "akawDb_ttQqCjAGBI@s[RGAGAEAaLiGECCECECGk@wDcDCeBxMCFCFEDEDG@G@kV|@G?GAGAEEECCGaC}FWTbFnP@HjBxU?D?D{AvPAFCFEDEDcQvJG@EBI?{mA_BIAGCuY_NCA_iAgr@ECCEuJcPCGAEqCmTAG@G@InFgOBEBEFCDCFAF?F?tWlEtGc@f@mEc@_NmNkOCECGAG?G@IhB}IeM_MEEAGCG?G@G@GpTsm@yXiNwKrHqG`^AFCDEDEBEBG@G?G?qPaC{HjKEDEBEBG@G?GAGAs|@u]}LvQEDEDE@G@E@GAGAkTmG_WnoAADCDqJrNEDEBGBG@G?EAGAgx@m[aQzWCDEBGBE@G?G?GAECai@q[U|AtOpQDD@D`AlD~D{CFCFCF?F?F@FBnhAbq@DBDD@F@F@FAFAFCDsr@fbACDGBGBG@G?GAECGCEEcTu[maAk_ACECCkFmMkz@zWGBG?G?GAECEEeGaG{m@tWE@E@G?u`@KoMdBG?G?EAGCECof@yc@eT_MyUmFoYEwd@tIaRnJE@G@G?G?GCah@wR{FYcVhNtL`Z@DrClM~LhEDBDDDD@D@F@FADeBzNAFCDCDyAxAkEld@?FCDePd]EDsMnOEBEBGBud@zIaL~GEBG@G@sWNE?GAECcLwFECCECECEAGq@yN?G?GBEBGv@gAkEqDEECGAGoAmIi}@qz@sIhCE@G@EAG?iKcCEAGEEECG_F_O_DqByHlAG?I?yH}@EAGCEEsBwB{HEGAGAECEECEuEqIwFXgEpBEBE@G?sc@TiJnEEBE@G?GA_KoAEAECECEEqB_DeBC_Ud@qHpCE@G@E?GAEAmPoGGE}[oVCCCEqJiQAEAGkDk]?G@I@GBEhJaMDEFCDCFAxBIeJ}TCGkNi`AmPcj@AGAI@G@GDEzN_SDEDCDCFAD?F?FBD@fBbAo@aL?G@GBGlH}OqUw_BgF}DwEOG?GCEC}AqAqDRG?EAGAECEECEy@}AiVxf@CDEBaInGGBgJhDqF~ICDEBcVjOGBG@kVnC}IvFlXjJfIg@FAF@FBjDvAfG_VBGBEDCFCDCF?F?F@za@~LFBDDDDBD@F?FAFcD`TADADEDEBEBeEvArFlHBD@F@D?FAF}Ht`@vOdCF@FBDDBFBF~EdW?F?D?DuA`KAFADEDEB}DbCvDzADBDBBFBDnAdFjIIF@D@F@DBBDBDBF`Jxf@?D?FAFAFCDEDEBsp@nYEBaYfGI@IAqV_CEAGACCgMeJqS{DGCGEwGaGEECIgDeMAG?InCgd@yJuQCEAG?I?GBGlNs]yVeSsDbKCDCDEBEBG@G@GAEAyVmHECGCCGCEyBuHmNkLuQ_EEAECEE}KoMCEuHwOCEAE?G@GdBcN_L_WCG?G?G@GBGBElXwXDEDCFAF?F?F@DBDD~Yn[BDBF@F?FAFc@zBxAg@FCF?F?F@DB`a@zTjD_FDEDCFCFAF?F@~VxEtWqPkBkBkKbBE@G?GAECECiPgMCEEEiGuNuo@pPE@G?G?EAECECEEag@_v@CEAE?G?E?GBEdi@gtAcBy@{FtHEDEDG@G@G?GAaP}DbDbN@F?DAFADCFCBEDqc@`XcCvVAFCFEDEDGBw_@hJG@G?GAGAECEECGgHyPCG?G?GJ{A{I{NiV{IECECCCkI}LCIgLia@AG?G@G@GnQkd@|Jgi@s^{`@EGCGaN}o@gcAtWE@G?GAGAECECCECGuYkcA{i@`TG@E@G?GAqGsAmB|DCDEDGBGBcR~BG?G?GCGCEEyFwGCECGAGO{CgJuBEAECEEoImKEEAGoFeY_FeIuWmOGECGcO}YEIqDwT?E?G@GdLqi@s@wJ?I@GjBmJwBqR?I?G@Gp@iBaLmc@uCoEiDaAECECEECEiFsMAEAE}A{R?E@GzAsNwYsQEECEkHeMCIuK}f@AG?E?GBG@EDEDCDCzpAi_@DAHAF@D@FBDDBD`GtL~MvAD@F@DDBBBDBFxMlt@rk@sMFAH?F@FBDBDDBF~J|Yrc@kMaG}i@AE@G@G@EBEDCDCjKcEbBeS@EBGBEDCDCDC~LeCaBiY?G@E@GBEDEDCDCzo@eQkEsPc\\jAG?EAGCECECCGCE_Rqx@_aB~RG?G?GCECyaA{l@ECCECEaL{XCG?G?E?GBGBEDCDEDAj{Du~@pA_BcDsz@?G@I@EDGDCFClZgJ~QeOFEDAFAH?F@DBFBjl@vh@~LgQDEDCFCFAF?tlB~GH@dXdHnZ{w@u@qDAG?G@E@GvIsUBEDEFEDAHAF?xTvAhU{l@y@^EBG@G?EAGAmK{DGCEECECGAGW{D}[mDmZeAG?gNiCaK`GEBE@G@G?EAECqJeEECEECGAEAGQgEue@iFyKhQCDEBGBE@G@GAGAuR}F{T|G{^dh@EDEBGBG?G?GAGCia@_TECCCCECG?EsAgS?G@G@EBEBEnEmEeAyCAGAG?E@GvCwK@EBEbIiKDEDCFAFAF?dGf@bSmIBA`^kJFAF?F?FBDBfFbExJ_IDCFA|g@}KF?F?rNl@F@FBfQvI|DqMBGBEFCDC|EoAxQsj@@EBCBCtL}IFCDCF?D?F?lVfEzGwGDCFCFAFAF@F@DBbNpJDBBDBF@D?F?FADeIpXPIDAFAD?F@bLlBnCyADAFADApHAD?F@DBn`@xSpNmVFGhMqKtJkTBEDE|F}EmIkHg_@mQECEECGAGAG@G@G~XqbA@EDEBCFCDCF?F?zm@fD]UGGCGcEoKAGAE?G@GBEhUqi@BEDEDEFAFAF?F@FBrt@j]DDDDpIdMBFBD?F?FqA|R?FCDiCxFrDfIBF?F?F?FCDCFwJvL|v@l`@bb@chAalB}pACECECEAEAGWaU?G@GBEBEDElMaIvMiSDEDEFCF?F?F@F@`g@hVjDmIBGDEDC|OiHFCF?H?F@FB|k@x[fGu[en@qb@ECEGAEAG?G?GBGdHgQBEDEDCFCxDs@~n@quADGDEDCFAFAF@F@FBte@`YDBBDBF@D@FAFAFmLfa@l\\rODBBDBDBD@F?Dk@`VvDpBzIoJDEDCFAD?F?F@D@dUxKlHeFDCFCD?F?F@F@lTfK|PgUDEDCFAFAF?B@AIlGsBACAE?G?GBEfQmj@mn@km@EEAECG?E?G@G@EnPw]BEbQaUDGhO}JDCFAFAF@F@FBDD~AfBc@_MyOyKiDIGAEAqd@}OECECeLiKEECGAG?G?GBGdFiOBEBEDEFAFAF?F?FBnc@rPpTtCD@D@DBBDBD|BvFdK|D|DiFrF{PBEBEBCfCiB@aH?G@GBEDEDEpDuBnDqHDEDEDCFADAF?F@z]pIlPr@pEub@@GBEBEDEDCFADAdf@oBD?F?jhAvPhW?D?`ZfCF@DBti@fXFDBDBDBF?F?FADkIb[~`ArSD@DBDDBDBD@F?F_AxkArBzJ`M|P~D`CzLsRDEBCFCDAF?D?F@bXnGDBFDBDBFBF?FM`SAFAFCFEDGBkD|AuBvExSpLDDDDBF@Fh@|HdBfABDDBBF@DZlCpM|LBDBFBD?F?FAFCFyJlQCDEDGBE@G@GAGAePqEmOl`@CDEDEBGBG@qG\\kDdSCF}IhTtS`LD?DAF@F@DBrTdM~F`DCB|YrP~LmGFADAF?F?F@DBlw@tg@S_O?G@GxJm\\BGBEDCDCFADAhs@kBF?F@DBll@j[DBdSxQDDBFvJr\\@DlRxsAzm@`e@~ZsSbj@gi@fEcV@C~L{b@g@yUgGw`@AKReJyBwSiJiZCG?G?G@EBGjCyEA}E?E@GdJk`@Oed@@I@GBE|OsUBEDCDCxDgAaAcG?G?G@GfJo[JkIsD{a@AG@G@GBEDEDCFCFAF?F@F@rdCxdADBDDBDBF?FfIhwA?H{AnWADCFwDbIvFm@~Ly[BEDEFEDAHApHSz\\iiABGDEDEDAFCF?F?dfA|MF@FBDDBFBFvDxQ@F?F]jGlTyZBEDCFCDAF?F?D@DBbpFt{CFBBDBF@F@FAFuD|T`QlZBF@F@FAFAFEDs[jb@ED}IhGEBG@G@GAuMwAmZrr@CDEDEBGBG@GAGAGAsWaNaRxPEBGBE@G@GAEAGCaq@{^kUlh@CDc]hb@CDGBE@G@G?eQ_A}Qf_@CDEDEBG@}KvBG?G?GAGA{E_CcFrJCDEDEBG@G@}KRkSpq@|OlNDDBD@F@D?FAFoLzj@ADCDEDEBEBeLjCsCdCEDE@E@G@gTVkPbQmBzGCDCD}gBnzBpIpJjUyGFAFAD@F@D@lp@p\\DD~\\|Z|lA|LH@fDnAbFoHcB_K?G?G@G@EDEpgA}sAuOeOEECEAG?G?GBGBGrZgf@BEDCFCDAFAlmCsBF@F@D@DDDDBD@D?F?FAFmUh`Aj~Ah|@DBDDBF@D?F?FAFaSfu@CFEDCBGBGBE?G?mTmBaNdZCDEBEBGBE@G?GA_PiCy_@vr@CBEDEBG@G@E?GAEAECwMqJiPkHGCEECGAEAI?Gj@oGwAkEAG?G?IBG`BqEs]kKkEbDGBEBG?I?GAyJmCyIrUCDEDEBGBE@G?GAuN_CuG|PrOh@F@FBFB`ElDfDGfGsCDAFAD?F?`NjBD@DBDB|EbE`O`AF@FBDBDDBD@D@FnAz[?D?DADaPhf@A@{M`ZtJbHzQaVDEDCFCF?F?F@FBxTrLFBBFBD@H@FUpJra@jWDBBDBD@F?F?DAFCDCDwb@|e@~\\jTtFgHDEDCFADAF?F@F@fRlIDBDDBDBF?Dn@tLnFjO@FbGfa@@H?FCFoCxIrInJBDBD@F?FAFAFeWzq@CDaJ|M|@zB@F@HAFmE~^vyBho@B@j|Ats@FDBBBDBF@F?DAFAFCDEDEB{NpHG@E@G?G?GAwtA}e@ii@uMGCECCCyBuCmmA}\\rAvLxLbZ@F@F?FAFoHpZADCDEDEBG@E@G?GA_PmCGAGEEECEuI}SiHpVCDEDEDGBE@G?I?uXcEcAzSAFADCDEDEBEBG@mT`ByLrZCDEDEBGBG@G?cb@{BiCfAEBG?E@yX_@{U~BT|A?D?F?DCFoAzCxmBvd@F@DBBDDD@F@D?FoBhl@ADCFCDCDEBGBG@uJn@nA`Ffb@vBF@F@DBBDDD@D@FtFzn@bFpAFBDDDDlEjIBF@F?DA|ItEfHBFBF?F?F}B|RCHyFpNEnO?DCFADyGjLpc@fJDBFBBDDD@F@F?FADCFyInRCDEDGB{b@bOsPjJ}\\h\\Cj\\AFADCF{C~ElQhODDBF@D@HAFAFCDi^xl@`fAg@H?F@DBDDDDBF@FbDfd@zEsFzCiIBGDEFCFCF?bP]F?F@DBFDBDBD@F~Fle@bGd@F@FBDDDDBFxBlI`IjFDDDD@F@F?FsD|`AAFADCFEDGBG@G@qt@rAcFbMADEDEBE@E@G@klAp@qQ~SEBEBGBE?G?GAGAcIuD,gbgwDnlyrQan@`u@eVbk@~UjYfGeZ@GBEDCDEdMiGDAFAD?F?xHz@z@q@~AgR@GBEBEBEDCFArKcCDAD?F?dKfAF?DBDBbItGjE}@FAF?F@F@dX|LDIkcAoaAEECGAG?G?E@GpFcR,kmrwDpldsQha@a@pP}Jd[ig@@A~NyQOgF?G@GBGDEpNqOcS}JECEECGCGg@oEk^i[CECEAE_Kqb@ACoQuoA_PoOoW_OyXBuFn~@AHoEbQCDCDCDEBG@c_@xIE?G@EAyAOoA~UhFbdAzc@tz@lOdGFBfLxIFDjPjWBF@Dd@zC,{mbwDzo_sQ@{B@I@GtO}a@}QjFG@G?G?EAGCEECECEAG?GNePkB}IAG?E?GBExEcNg\\}PECCEiPwSsVro@EDCDEBGBG@G?EA{ZcFuQna@pXZF@D@xJlDFBrb@xZFF`Ybb@fQa],oxiwD~f~rQe@h@tQ|PjHeJePgRuHdJ,qwewDb`wsQI?mEs@_@`A~x@fg@tFeHDEFCDAFAH?F@DBzWxNnOuQBCDCDCFAbIk@|WiKDAFAF@F?DBFBBDtPbUtDpCdFv@`Eo@nDcP@GBEBCDCr[_QDCDArK{AD?F?D@F@|KzEFBDDBF@FlAfIxCgGDGDEFCFAz@IwQwLEGEEuG}OmK|CGBG?IAGAoNgGuZzMEBsUdFG@E?mo@e@G?uYwDcI`@oNrDE@E?yd@X,mubwDpubtQA?oPwQ{J_ECtH`K|CFBDDBBBF@D@FZ~RhUZV_DgF{E,wrdwDdsitQbWrLDBDDBD@D@F|@tSx_BEF_G@K`Ig]@GDGFExL_HBqAiVlBG?E?GCECECEEAGqE_Q}U{AGAGCECEECEAGAGoAuw@w`A@qBpb@AFADEFEDEBG@G@GAGAkYkIJzCrCtBDDBDBF?HJfMdHlFDDBDBF@D?FAFAFCDEDcH`GZnW,cinxDbzmtQdJ{@FAF@F@FDDBbLhNBFBFbPrbAlZvFF@DDDDBDBF?F?FaFji@bm@mBD?fk@fBlb@sBD?F@D@t`@xNB@DBteAd`AhCiC`C}JpAmZ?GBEvEmKyAkR?G@GBGBEfG_IQeAaLsJEECEsQua@eH_HEECI{BsJsMkHEECECEAEAG?GnA_O@GBGDGfC}BmCsIAE?E}@cTixA}j@oPzMGDE@G@G?GAGAmzBc`AqL{AEAGCmVwNzKth@fGxIBD@DvDrP@F?FcAjVAFAFEDEDEBGBqKfBaC`EEDGDwGzChKbK,w`exD|mttQd@b@ZoAaAj@,ix`wDrnntQq_@r@wGzRCDCDEBGBE@G?w_ATE?GAGCECCECGgCkHsQfTjC|d@zEdCDBDDBF@Fd@lD|z@qBrPgEF{e@?E@GBEBEDCDCFCF?va@wAlCw\\",
+    "isBoundingBox": false,
+    "id": 30818,
+    "type": 6,
+    "name": "Austin",
+    "countryCode": "US",
+    "stateCode": "TX",
+    "isUsingPILOnMap": false
+   },
+   "regions": [
+    {
+     "poly": "akawDb_ttQqCjAGBI@s[RGAGAEAaLiGECCECECGk@wDcDCeBxMCFCFEDEDG@G@kV|@G?GAGAEEECCGaC}FWTbFnP@HjBxU?D?D{AvPAFCFEDEDcQvJG@EBI?{mA_BIAGCuY_NCA_iAgr@ECCEuJcPCGAEqCmTAG@G@InFgOBEBEFCDCFAF?F?tWlEtGc@f@mEc@_NmNkOCECGAG?G@IhB}IeM_MEEAGCG?G@G@GpTsm@yXiNwKrHqG`^AFCDEDEBEBG@G?G?qPaC{HjKEDEBEBG@G?GAGAs|@u]}LvQEDEDE@G@E@GAGAkTmG_WnoAADCDqJrNEDEBGBG@G?EAGAgx@m[aQzWCDEBGBE@G?G?GAECai@q[U|AtOpQDD@D`AlD~D{CFCFCF?F?F@FBnhAbq@DBDD@F@F@FAFAFCDsr@fbACDGBGBG@G?GAECGCEEcTu[maAk_ACECCkFmMkz@zWGBG?G?GAECEEeGaG{m@tWE@E@G?u`@KoMdBG?G?EAGCECof@yc@eT_MyUmFoYEwd@tIaRnJE@G@G?G?GCah@wR{FYcVhNtL`Z@DrClM~LhEDBDDDD@D@F@FADeBzNAFCDCDyAxAkEld@?FCDePd]EDsMnOEBEBGBud@zIaL~GEBG@G@sWNE?GAECcLwFECCECECEAGq@yN?G?GBEBGv@gAkEqDEECGAGoAmIi}@qz@sIhCE@G@EAG?iKcCEAGEEECG_F_O_DqByHlAG?I?yH}@EAGCEEsBwB{HEGAGAECEECEuEqIwFXgEpBEBE@G?sc@TiJnEEBE@G?GA_KoAEAECECEEqB_DeBC_Ud@qHpCE@G@E?GAEAmPoGGE}[oVCCCEqJiQAEAGkDk]?G@I@GBEhJaMDEFCDCFAxBIeJ}TCGkNi`AmPcj@AGAI@G@GDEzN_SDEDCDCFAD?F?FBD@fBbAo@aL?G@GBGlH}OqUw_BgF}DwEOG?GCEC}AqAqDRG?EAGAECEECEy@}AiVxf@CDEBaInGGBgJhDqF~ICDEBcVjOGBG@kVnC}IvFlXjJfIg@FAF@FBjDvAfG_VBGBEDCFCDCF?F?F@za@~LFBDDDDBD@F?FAFcD`TADADEDEBEBeEvArFlHBD@F@D?FAF}Ht`@vOdCF@FBDDBFBF~EdW?F?D?DuA`KAFADEDEB}DbCvDzADBDBBFBDnAdFjIIF@D@F@DBBDBDBF`Jxf@?D?FAFAFCDEDEBsp@nYEBaYfGI@IAqV_CEAGACCgMeJqS{DGCGEwGaGEECIgDeMAG?InCgd@yJuQCEAG?I?GBGlNs]yVeSsDbKCDCDEBEBG@G@GAEAyVmHECGCCGCEyBuHmNkLuQ_EEAECEE}KoMCEuHwOCEAE?G@GdBcN_L_WCG?G?G@GBGBElXwXDEDCFAF?F?F@DBDD~Yn[BDBF@F?FAFc@zBxAg@FCF?F?F@DB`a@zTjD_FDEDCFCFAF?F@~VxEtWqPkBkBkKbBE@G?GAECECiPgMCEEEiGuNuo@pPE@G?G?EAECECEEag@_v@CEAE?G?E?GBEdi@gtAcBy@{FtHEDEDG@G@G?GAaP}DbDbN@F?DAFADCFCBEDqc@`XcCvVAFCFEDEDGBw_@hJG@G?GAGAECEECGgHyPCG?G?GJ{A{I{NiV{IECECCCkI}LCIgLia@AG?G@G@GnQkd@|Jgi@s^{`@EGCGaN}o@gcAtWE@G?GAGAECECCECGuYkcA{i@`TG@E@G?GAqGsAmB|DCDEDGBGBcR~BG?G?GCGCEEyFwGCECGAGO{CgJuBEAECEEoImKEEAGoFeY_FeIuWmOGECGcO}YEIqDwT?E?G@GdLqi@s@wJ?I@GjBmJwBqR?I?G@Gp@iBaLmc@uCoEiDaAECECEECEiFsMAEAE}A{R?E@GzAsNwYsQEECEkHeMCIuK}f@AG?E?GBG@EDEDCDCzpAi_@DAHAF@D@FBDDBD`GtL~MvAD@F@DDBBBDBFxMlt@rk@sMFAH?F@FBDBDDBF~J|Yrc@kMaG}i@AE@G@G@EBEDCDCjKcEbBeS@EBGBEDCDCDC~LeCaBiY?G@E@GBEDEDCDCzo@eQkEsPc\\jAG?EAGCECECCGCE_Rqx@_aB~RG?G?GCECyaA{l@ECCECEaL{XCG?G?E?GBGBEDCDEDAj{Du~@pA_BcDsz@?G@I@EDGDCFClZgJ~QeOFEDAFAH?F@DBFBjl@vh@~LgQDEDCFCFAF?tlB~GH@dXdHnZ{w@u@qDAG?G@E@GvIsUBEDEFEDAHAF?xTvAhU{l@y@^EBG@G?EAGAmK{DGCEECECGAGW{D}[mDmZeAG?gNiCaK`GEBE@G@G?EAECqJeEECEECGAEAGQgEue@iFyKhQCDEBGBE@G@GAGAuR}F{T|G{^dh@EDEBGBG?G?GAGCia@_TECCCCECG?EsAgS?G@G@EBEBEnEmEeAyCAGAG?E@GvCwK@EBEbIiKDEDCFAFAF?dGf@bSmIBA`^kJFAF?F?FBDBfFbExJ_IDCFA|g@}KF?F?rNl@F@FBfQvI|DqMBGBEFCDC|EoAxQsj@@EBCBCtL}IFCDCF?D?F?lVfEzGwGDCFCFAFAF@F@DBbNpJDBBDBF@D?F?FADeIpXPIDAFAD?F@bLlBnCyADAFADApHAD?F@DBn`@xSpNmVFGhMqKtJkTBEDE|F}EmIkHg_@mQECEECGAGAG@G@G~XqbA@EDEBCFCDCF?F?zm@fD]UGGCGcEoKAGAE?G@GBEhUqi@BEDEDEFAFAF?F@FBrt@j]DDDDpIdMBFBD?F?FqA|R?FCDiCxFrDfIBF?F?F?FCDCFwJvL|v@l`@bb@chAalB}pACECECEAEAGWaU?G@GBEBEDElMaIvMiSDEDEFCF?F?F@F@`g@hVjDmIBGDEDC|OiHFCF?H?F@FB|k@x[fGu[en@qb@ECEGAEAG?G?GBGdHgQBEDEDCFCxDs@~n@quADGDEDCFAFAF@F@FBte@`YDBBDBF@D@FAFAFmLfa@l\\rODBBDBDBD@F?Dk@`VvDpBzIoJDEDCFAD?F?F@D@dUxKlHeFDCFCD?F?F@F@lTfK|PgUDEDCFAFAF?B@AIlGsBACAE?G?GBEfQmj@mn@km@EEAECG?E?G@G@EnPw]BEbQaUDGhO}JDCFAFAF@F@FBDD~AfBc@_MyOyKiDIGAEAqd@}OECECeLiKEECGAG?G?GBGdFiOBEBEDEFAFAF?F?FBnc@rPpTtCD@D@DBBDBD|BvFdK|D|DiFrF{PBEBEBCfCiB@aH?G@GBEDEDEpDuBnDqHDEDEDCFADAF?F@z]pIlPr@pEub@@GBEBEDEDCFADAdf@oBD?F?jhAvPhW?D?`ZfCF@DBti@fXFDBDBDBF?F?FADkIb[~`ArSD@DBDDBDBD@F?F_AxkArBzJ`M|P~D`CzLsRDEBCFCDAF?D?F@bXnGDBFDBDBFBF?FM`SAFAFCFEDGBkD|AuBvExSpLDDDDBF@Fh@|HdBfABDDBBF@DZlCpM|LBDBFBD?F?FAFCFyJlQCDEDGBE@G@GAGAePqEmOl`@CDEDEBGBG@qG\\kDdSCF}IhTtS`LD?DAF@F@DBrTdM~F`DCB|YrP~LmGFADAF?F?F@DBlw@tg@S_O?G@GxJm\\BGBEDCDCFADAhs@kBF?F@DBll@j[DBdSxQDDBFvJr\\@DlRxsAzm@`e@~ZsSbj@gi@fEcV@C~L{b@g@yUgGw`@AKReJyBwSiJiZCG?G?G@EBGjCyEA}E?E@GdJk`@Oed@@I@GBE|OsUBEDCDCxDgAaAcG?G?G@GfJo[JkIsD{a@AG@G@GBEDEDCFCFAF?F@F@rdCxdADBDDBDBF?FfIhwA?H{AnWADCFwDbIvFm@~Ly[BEDEFEDAHApHSz\\iiABGDEDEDAFCF?F?dfA|MF@FBDDBFBFvDxQ@F?F]jGlTyZBEDCFCDAF?F?D@DBbpFt{CFBBDBF@F@FAFuD|T`QlZBF@F@FAFAFEDs[jb@ED}IhGEBG@G@GAuMwAmZrr@CDEDEBGBG@GAGAGAsWaNaRxPEBGBE@G@GAEAGCaq@{^kUlh@CDc]hb@CDGBE@G@G?eQ_A}Qf_@CDEDEBG@}KvBG?G?GAGA{E_CcFrJCDEDEBG@G@}KRkSpq@|OlNDDBD@F@D?FAFoLzj@ADCDEDEBEBeLjCsCdCEDE@E@G@gTVkPbQmBzGCDCD}gBnzBpIpJjUyGFAFAD@F@D@lp@p\\DD~\\|Z|lA|LH@fDnAbFoHcB_K?G?G@G@EDEpgA}sAuOeOEECEAG?G?GBGBGrZgf@BEDCFCDAFAlmCsBF@F@D@DDDDBD@D?F?FAFmUh`Aj~Ah|@DBDDBF@D?F?FAFaSfu@CFEDCBGBGBE?G?mTmBaNdZCDEBEBGBE@G?GA_PiCy_@vr@CBEDEBG@G@E?GAEAECwMqJiPkHGCEECGAEAI?Gj@oGwAkEAG?G?IBG`BqEs]kKkEbDGBEBG?I?GAyJmCyIrUCDEDEBGBE@G?GAuN_CuG|PrOh@F@FBFB`ElDfDGfGsCDAFAD?F?`NjBD@DBDB|EbE`O`AF@FBDBDDBD@D@FnAz[?D?DADaPhf@A@{M`ZtJbHzQaVDEDCFCF?F?F@FBxTrLFBBFBD@H@FUpJra@jWDBBDBD@F?F?DAFCDCDwb@|e@~\\jTtFgHDEDCFADAF?F@F@fRlIDBDDBDBF?Dn@tLnFjO@FbGfa@@H?FCFoCxIrInJBDBD@F?FAFAFeWzq@CDaJ|M|@zB@F@HAFmE~^vyBho@B@j|Ats@FDBBBDBF@F?DAFAFCDEDEB{NpHG@E@G?G?GAwtA}e@ii@uMGCECCCyBuCmmA}\\rAvLxLbZ@F@F?FAFoHpZADCDEDEBG@E@G?GA_PmCGAGEEECEuI}SiHpVCDEDEDGBE@G?I?uXcEcAzSAFADCDEDEBEBG@mT`ByLrZCDEDEBGBG@G?cb@{BiCfAEBG?E@yX_@{U~BT|A?D?F?DCFoAzCxmBvd@F@DBBDDD@F@D?FoBhl@ADCFCDCDEBGBG@uJn@nA`Ffb@vBF@F@DBBDDD@D@FtFzn@bFpAFBDDDDlEjIBF@F?DA|ItEfHBFBF?F?F}B|RCHyFpNEnO?DCFADyGjLpc@fJDBFBBDDD@F@F?FADCFyInRCDEDGB{b@bOsPjJ}\\h\\Cj\\AFADCF{C~ElQhODDBF@D@HAFAFCDi^xl@`fAg@H?F@DBDDDDBF@FbDfd@zEsFzCiIBGDEFCFCF?bP]F?F@DBFDBDBD@F~Fle@bGd@F@FBDDDDBFxBlI`IjFDDDD@F@F?FsD|`AAFADCFEDGBG@G@qt@rAcFbMADEDEBE@E@G@klAp@qQ~SEBEBGBE?G?GAGAcIuD,gbgwDnlyrQan@`u@eVbk@~UjYfGeZ@GBEDCDEdMiGDAFAD?F?xHz@z@q@~AgR@GBEBEBEDCFArKcCDAD?F?dKfAF?DBDBbItGjE}@FAF?F@F@dX|LDIkcAoaAEECGAG?G?E@GpFcR,kmrwDpldsQha@a@pP}Jd[ig@@A~NyQOgF?G@GBGDEpNqOcS}JECEECGCGg@oEk^i[CECEAE_Kqb@ACoQuoA_PoOoW_OyXBuFn~@AHoEbQCDCDCDEBG@c_@xIE?G@EAyAOoA~UhFbdAzc@tz@lOdGFBfLxIFDjPjWBF@Dd@zC,{mbwDzo_sQ@{B@I@GtO}a@}QjFG@G?G?EAGCEECECEAG?GNePkB}IAG?E?GBExEcNg\\}PECCEiPwSsVro@EDCDEBGBG@G?EA{ZcFuQna@pXZF@D@xJlDFBrb@xZFF`Ybb@fQa],oxiwD~f~rQe@h@tQ|PjHeJePgRuHdJ,qwewDb`wsQI?mEs@_@`A~x@fg@tFeHDEFCDAFAH?F@DBzWxNnOuQBCDCDCFAbIk@|WiKDAFAF@F?DBFBBDtPbUtDpCdFv@`Eo@nDcP@GBEBCDCr[_QDCDArK{AD?F?D@F@|KzEFBDDBF@FlAfIxCgGDGDEFCFAz@IwQwLEGEEuG}OmK|CGBG?IAGAoNgGuZzMEBsUdFG@E?mo@e@G?uYwDcI`@oNrDE@E?yd@X,mubwDpubtQA?oPwQ{J_ECtH`K|CFBDDBBBF@D@FZ~RhUZV_DgF{E,wrdwDdsitQbWrLDBDDBD@D@F|@tSx_BEF_G@K`Ig]@GDGFExL_HBqAiVlBG?E?GCECECEEAGqE_Q}U{AGAGCECEECEAGAGoAuw@w`A@qBpb@AFADEFEDEBG@G@GAGAkYkIJzCrCtBDDBDBF?HJfMdHlFDDBDBF@D?FAFAFCDEDcH`GZnW,cinxDbzmtQdJ{@FAF@F@FDDBbLhNBFBFbPrbAlZvFF@DDDDBDBF?F?FaFji@bm@mBD?fk@fBlb@sBD?F@D@t`@xNB@DBteAd`AhCiC`C}JpAmZ?GBEvEmKyAkR?G@GBGBEfG_IQeAaLsJEECEsQua@eH_HEECI{BsJsMkHEECECEAEAG?GnA_O@GBGDGfC}BmCsIAE?E}@cTixA}j@oPzMGDE@G@G?GAGAmzBc`AqL{AEAGCmVwNzKth@fGxIBD@DvDrP@F?FcAjVAFAFEDEDEBGBqKfBaC`EEDGDwGzChKbK,w`exD|mttQd@b@ZoAaAj@,ix`wDrnntQq_@r@wGzRCDCDEBGBE@G?w_ATE?GAGCECCECGgCkHsQfTjC|d@zEdCDBDDBF@Fd@lD|z@qBrPgEF{e@?E@GBEBEDCDCFCF?va@wAlCw\\",
+     "isBoundingBox": false,
+     "id": 30818,
+     "type": 6,
+     "name": "Austin",
+     "countryCode": "US",
+     "stateCode": "TX",
+     "isUsingPILOnMap": false
+    }
+   ]
+  }
+ },
+ "/stingray/api/gis?al=1&include_nearby_homes=true&market=austin&mpt=99&num_homes=350&ord=redfin-recommended-asc&page_number=1&region_id=30818&region_type=6&sold_within_days=90&start=0&status=9&uipt=1,2,3,4,5,6,7,8&v=8": {
+  "version": 663,
+  "errorMessage": "Success",
+  "resultCode": 0,
+  "payload": {
+   "homes": [
+    {
+     "mlsId": {
+      "label": "MLS#",
+      "value": "6206054"
+     },
+     "showMlsId": false,
+     "mlsStatus": "Closed",
+     "showDatasourceLogo": false,
+     "price": {
+      "value": 420000,
+      "level": 1
+     },
+     "hideSalePrice": true,
+     "hoa": {
+      "level": 1
+     },
+     "isHoaFrequencyKnown": true,
+     "sqFt": {
+      "value": 1564,
+      "level": 1
+     },
+     "pricePerSqFt": {
+      "value": 269,
+      "level": 1
+     },
+     "lotSize": {
+      "value": 9522,
+      "level": 1
+     },
+     "beds": 3,
+     "baths": 2.0,
+     "fullBaths": 2,
+     "location": {
+      "value": "Heritage Hills Sec 03",
+      "level": 1
+     },
+     "stories": 1.0,
+     "latLong": {
+      "value": {
+       "latitude": 30.3455071,
+       "longitude": -97.691857
+      },
+      "level": 1
+     },
+     "streetLine": {
+      "value": "8401 Shenandoah Dr",
+      "level": 1
+     },
+     "unitNumber": {
+      "level": 1
+     },
+     "city": "Austin",
+     "state": "TX",
+     "zip": "78753",
+     "postalCode": {
+      "value": "78753",
+      "level": 1
+     },
+     "countryCode": "US",
+     "showAddressOnMap": true,
+     "soldDate": 1785481200000,
+     "searchStatus": 4,
+     "propertyType": 6,
+     "uiPropertyType": 1,
+     "listingType": 1,
+     "propertyId": 31481655,
+     "listingId": 216573541,
+     "dataSourceId": 92,
+     "isEarlyAccess": false,
+     "marketId": 12,
+     "yearBuilt": {
+      "value": 1968,
+      "level": 1
+     },
+     "dom": {
+      "level": 1
+     },
+     "timeOnRedfin": {
+      "level": 1
+     },
+     "timeZone": "US/Central",
+     "primaryPhotoDisplayLevel": 1,
+     "photos": {
+      "value": "0-25:3",
+      "level": 5
+     },
+     "numPictures": 26,
+     "additionalPhotosInfo": [],
+     "photoFormat": "webp",
+     "sellingBroker": {
+      "name": "Redfin Corporation",
+      "isRedfin": true
+     },
+     "sellingAgent": {
+      "name": "Agent A",
+      "redfinAgentId": 14149
+     },
+     "url": "/TX/Austin/8401-Shenandoah-Dr-78753/home/31481655",
+     "hasInsight": false,
+     "sashes": [
+      {
+       "sashType": 8,
+       "sashTypeId": 8,
+       "sashTypeName": "Bought",
+       "sashTypeColor": "",
+       "isRedfin": true,
+       "isActiveKeyListing": false,
+       "openHouseText": "",
+       "lastSaleDate": "JUL 31, 2026",
+       "lastSalePrice": ""
+      }
+     ],
+     "listingTags": [
+      "SINGLE STORY RANCH STYLE HOME",
+      "NO INTERIOR STEPS",
+      "PRIMARY BEDROOM PRIVACY",
+      "LARGE LOT",
+      "QUIET NEIGHBORHOOD",
+      "MATURE TREES"
+     ],
+     "isHot": false,
+     "hasVirtualTour": false,
+     "hasVideoTour": false,
+     "has3DTour": false,
+     "hasInteractiveFloorplan": false,
+     "newConstructionCommunityInfo": {},
+     "isRedfin": false,
+     "listingRemarks": "A single-story ranch-style home with pillars exudes traditional elegance while evoking a cozy, homelike feel. There are no interior steps, and the primary bedroom is set apart from other bedrooms for privacy. It sits on a large lot and is nestled in a quiet neighborhood pocket full of charming homes and streets lined with beautiful, mature, trees. It is centrally located with easy access to IH-35, 183 Fwy, and US-290. It is easy drive to Austin Downtown, Mueller, the Domain, the Arboretum, and Austin Bergstrom Airport. The open living space makes the house feel larger than its square footage and allows for easy entertaining that can extend through the sliding glass doors into the spacious b",
+     "remarksAccessLevel": 1,
+     "isShortlisted": false,
+     "isViewedListing": false,
+     "skGarageSpaces": 2,
+     "skParkingSpaces": 2,
+     "skPoolType": 5
+    },
+    {
+     "mlsId": {
+      "label": "MLS#",
+      "value": "8130202"
+     },
+     "showMlsId": false,
+     "mlsStatus": "Closed",
+     "showDatasourceLogo": false,
+     "price": {
+      "value": 339900,
+      "level": 1
+     },
+     "hideSalePrice": true,
+     "hoa": {
+      "value": 458,
+      "level": 1
+     },
+     "isHoaFrequencyKnown": true,
+     "sqFt": {
+      "value": 875,
+      "level": 1
+     },
+     "pricePerSqFt": {
+      "value": 388,
+      "level": 1
+     },
+     "lotSize": {
+      "value": 1001,
+      "level": 1
+     },
+     "beds": 2,
+     "baths": 2.0,
+     "fullBaths": 2,
+     "location": {
+      "value": "Palladian Condo",
+      "level": 1
+     },
+     "latLong": {
+      "value": {
+       "latitude": 30.2844003,
+       "longitude": -97.7463053
+      },
+      "level": 1
+     },
+     "streetLine": {
+      "value": "712 W 21st St #304",
+      "level": 1
+     },
+     "unitNumber": {
+      "value": "#304",
+      "level": 1
+     },
+     "city": "Austin",
+     "state": "TX",
+     "zip": "78705",
+     "postalCode": {
+      "value": "78705",
+      "level": 1
+     },
+     "countryCode": "US",
+     "showAddressOnMap": true,
+     "soldDate": 1786518000000,
+     "searchStatus": 4,
+     "propertyType": 3,
+     "uiPropertyType": 2,
+     "listingType": 1,
+     "propertyId": 30956151,
+     "listingId": 217107960,
+     "dataSourceId": 92,
+     "isEarlyAccess": false,
+     "marketId": 12,
+     "yearBuilt": {
+      "value": 1984,
+      "level": 1
+     },
+     "dom": {
+      "level": 1
+     },
+     "timeOnRedfin": {
+      "level": 1
+     },
+     "timeZone": "US/Central",
+     "primaryPhotoDisplayLevel": 1,
+     "photos": {
+      "value": "0-22:3",
+      "level": 5
+     },
+     "numPictures": 23,
+     "additionalPhotosInfo": [],
+     "photoFormat": "webp",
+     "url": "/TX/Austin/712-W-21st-St-78705/unit-304/home/30956151",
+     "hasInsight": false,
+     "sashes": [
+      {
+       "sashType": 1,
+       "sashTypeId": 1,
+       "sashTypeName": "Sold",
+       "sashTypeColor": "#5D8ACB",
+       "isRedfin": false,
+       "isActiveKeyListing": false,
+       "openHouseText": "",
+       "lastSaleDate": "AUG 12, 2026",
+       "lastSalePrice": ""
+      }
+     ],
+     "listingTags": [
+      "IN UNIT WASHER AND DRYER",
+      "PRIVATE BALCONY",
+      "ASSIGNED PARKING SPACES",
+      "WALKING DISTANCE RESTAURANTS",
+      "WALKING DISTANCE SHOPPING",
+      "WALKING DISTANCE COFFEE SHOPS"
+     ],
+     "isHot": false,
+     "hasVirtualTour": false,
+     "hasVideoTour": false,
+     "has3DTour": false,
+     "hasInteractiveFloorplan": false,
+     "newConstructionCommunityInfo": {},
+     "isRedfin": false,
+     "listingRemarks": "Fantastic opportunity to own a spacious condo in the heart of West Campus. This well designed unit features generously sized rooms, an in-unit washer and dryer, two assigned parking spaces, and a private balcony with great views. Enjoy an unbeatable location just minutes from the University of Texas, Downtown Austin, Zilker Park, and Barton Springs, with countless restaurants, shopping, coffee shops, and entertainment options within walking distance. Whether you're looking for a primary residence, game day retreat, or investment property, this condo offers the perfect combination of comfort, convenience, and location in one of Austin's most sought after neighborhoods.",
+     "remarksAccessLevel": 1,
+     "buildingId": 138387,
+     "isShortlisted": false,
+     "isViewedListing": false,
+     "skGarageSpaces": 0,
+     "skParkingSpaces": 2,
+     "skPoolType": 5
+    },
+    {
+     "mlsId": {
+      "label": "MLS#",
+      "value": "7576299"
+     },
+     "showMlsId": false,
+     "mlsStatus": "Closed",
+     "showDatasourceLogo": false,
+     "price": {
+      "value": 575000,
+      "level": 1
+     },
+     "hideSalePrice": true,
+     "hoa": {
+      "value": 13,
+      "level": 1
+     },
+     "isHoaFrequencyKnown": true,
+     "sqFt": {
+      "value": 3165,
+      "level": 1
+     },
+     "pricePerSqFt": {
+      "value": 182,
+      "level": 1
+     },
+     "lotSize": {
+      "value": 7670,
+      "level": 1
+     },
+     "beds": 5,
+     "baths": 3.5,
+     "fullBaths": 3,
+     "partialBaths": 1,
+     "location": {
+      "value": "Woods Century Park Sec 01",
+      "level": 1
+     },
+     "stories": 2.0,
+     "latLong": {
+      "value": {
+       "latitude": 30.4323315,
+       "longitude": -97.690558
+      },
+      "level": 1
+     },
+     "streetLine": {
+      "value": "2400 Century Park Blvd",
+      "level": 1
+     },
+     "unitNumber": {
+      "level": 1
+     },
+     "city": "Austin",
+     "state": "TX",
+     "zip": "78727",
+     "postalCode": {
+      "value": "78727",
+      "level": 1
+     },
+     "countryCode": "US",
+     "showAddressOnMap": true,
+     "soldDate": 1786431600000,
+     "searchStatus": 4,
+     "propertyType": 6,
+     "uiPropertyType": 1,
+     "listingType": 1,
+     "propertyId": 30957633,
+     "listingId": 216276959,
+     "dataSourceId": 92,
+     "isEarlyAccess": false,
+     "marketId": 12,
+     "yearBuilt": {
+      "value": 2003,
+      "level": 1
+     },
+     "dom": {
+      "level": 1
+     },
+     "timeOnRedfin": {
+      "level": 1
+     },
+     "timeZone": "US/Central",
+     "primaryPhotoDisplayLevel": 1,
+     "photos": {
+      "value": "0-38:5,39:4",
+      "level": 5
+     },
+     "numPictures": 40,
+     "additionalPhotosInfo": [],
+     "photoFormat": "webp",
+     "url": "/TX/Austin/2400-Century-Park-Blvd-78727/home/30957633",
+     "hasInsight": false,
+     "sashes": [
+      {
+       "sashType": 1,
+       "sashTypeId": 1,
+       "sashTypeName": "Sold",
+       "sashTypeColor": "#5D8ACB",
+       "isRedfin": false,
+       "isActiveKeyListing": false,
+       "openHouseText": "",
+       "lastSaleDate": "AUG 11, 2026",
+       "lastSalePrice": ""
+      }
+     ],
+     "listingTags": [
+      "LIMESTONE EXTERIOR",
+      "MATURE BACKYARD TREE",
+      "CHEF INSPIRED KITCHEN",
+      "MODERN CABINETRY",
+      "OVERSIZED UPSTAIRS GAME ROOM",
+      "TRAVERTINE FLOORING"
+     ],
+     "isHot": false,
+     "hasVirtualTour": false,
+     "hasVideoTour": false,
+     "has3DTour": false,
+     "hasInteractiveFloorplan": true,
+     "newConstructionCommunityInfo": {},
+     "isRedfin": false,
+     "listingRemarks": "Welcome to this beautifully updated home on a spacious corner lot in one of North Austin’s most convenient locations! Featuring a stunning limestone exterior and mature backyard tree, this property offers the perfect blend of comfort, functionality, and style. Inside, you’ll find a chef-inspired kitchen that opens seamlessly to the living room, thoughtfully updated with modern cabinetry and countertops—ideal for entertaining or everyday living. The smart floor plan provides exceptional privacy with bedrooms that do not share walls, along with a rare third full bathroom, a spacious open office, and an oversized upstairs game room. The home has been meticulously maintained a",
+     "remarksAccessLevel": 1,
+     "isShortlisted": false,
+     "isViewedListing": false,
+     "skGarageSpaces": 2,
+     "skParkingSpaces": 2,
+     "skPoolType": 5
+    }
+   ],
+   "dataSources": [],
+   "buildings": {},
+   "searchMedian": {
+    "price": 589000,
+    "sqFt": 2001,
+    "pricePerSqFt": 292,
+    "beds": 3,
+    "baths": 2.5
+   },
+   "csvDownloadLinkDisplayLevel": 3,
+   "hasBrokerInformation": true
+  }
+ },
+ "/stingray/api/gis-aggregates?al=1&include_nearby_homes=true&market=austin&mpt=99&num_homes=350&ord=redfin-recommended-asc&page_number=1&region_id=30818&region_type=6&sold_within_days=90&start=0&status=9&uipt=1,2,3,4,5,6,7,8&v=8": {
+  "version": 663,
+  "errorMessage": "Success",
+  "resultCode": 0,
+  "payload": {
+   "numPropertiesOnPriceRanges": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "numProperties": 2444,
+   "numEarlyAccess": 0,
+   "minPrice": 0,
+   "maxPrice": 0,
+   "avgPrice": 0.0,
+   "numSfr": 1910,
+   "numCondo": 435,
+   "numOther": 99
+  }
+ },
+ "/stingray/api/region/6/30818/99/region-breadcrumbs?amenities=undefined&isRentals=false": {
+  "version": 663,
+  "errorMessage": "Success",
+  "resultCode": 0,
+  "payload": {
+   "breadcrumbs": [
+    {
+     "breadcrumbType": "Organization",
+     "url": "https://www.redfin.com",
+     "name": "Redfin",
+     "description": "The home page",
+     "linkType": "HOME"
+    },
+    {
+     "breadcrumbType": "State",
+     "url": "https://www.redfin.com/state/Texas",
+     "name": "Texas",
+     "shortName": "TX",
+     "description": "A State with homes for sale",
+     "linkType": "MAP_STATE"
+    },
+    {
+     "breadcrumbType": "City",
+     "url": "https://www.redfin.com/city/30818/TX/Austin",
+     "name": "Austin",
+     "description": "A City with homes for sale",
+     "linkType": "MAP_PLACE"
+    }
+   ]
+  }
+ }
+}
